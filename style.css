@@ -13,7 +13,7 @@ html {
 body {
     background: url(./images/f1.jpg),url(./images/f2.jpg);
     background-size: auto 500px, auto 500px, auto 500px, auto 500px;
-    background-position: 350px top, 0px 850px;
+    background-position: right top, left 850px;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
